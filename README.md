@@ -5,7 +5,7 @@ A new Flutter application, To demonstrate different things in Flutter.
 ## Examples:
 
 ## 1. Parse Array without key from API.
-In this Example I have Open Source API to fetch data: 
+In this Example I have used Open Source API to fetch data: 
 **API :** https://www.mercadobitcoin.net/api-doc/
 
 **Response :**
