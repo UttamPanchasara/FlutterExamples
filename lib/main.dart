@@ -48,7 +48,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 color: Colors.lightBlueAccent,
                 padding: EdgeInsets.all(10),
                 child: Text(
-                  '1. Parce Array Without Key',
+                  '1. Parse Array Without Key',
                   style: TextStyle(
                       color: Colors.black,
                       fontSize: 18,
