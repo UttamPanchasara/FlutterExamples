@@ -30,4 +30,4 @@ In this Example I have used Open Source API to fetch data:
 
 ```
 
-- To implemented or fetch mentioned above refer this project's Example-1.
+- To implement or fetch data as mentioned above refer this project's Example-1.
