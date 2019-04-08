@@ -1,16 +1,33 @@
 # flutter_examples
 
-A new Flutter application.
+A new Flutter application, To demonstrate different things in Flutter.
 
-## Getting Started
+## Examples:
 
-This project is a starting point for a Flutter application.
+## 1. Parse Array without key from API.
+In this Example I have Open Source API to fetch data: 
+**API :** https://www.mercadobitcoin.net/api-doc/
 
-A few resources to get you started if this is your first Flutter project:
+**Response :**
+```json
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+    [
+      {
+        "tid": 160171,
+        "date": 1554591168,
+        "type": "buy",
+        "price": 1.40988,
+        "amount": 0.99299231
+      },
+      {
+        "tid": 160172,
+        "date": 1554591205,
+        "type": "buy",
+        "price": 1.40988,
+        "amount": 72.21
+      }
+    ]
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+```
+
+- To implemented or fetch mentioned above refer this project's Example-1.
