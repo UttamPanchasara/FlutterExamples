@@ -30,4 +30,18 @@ In this Example I have used Open Source API to fetch data:
 
 ```
 
-- To implement or fetch data as mentioned above refer this project's Example-1.
+
+
+
+## 2. Expandable Menu Integration:
+Add dependency to your `pubspec.yaml` file.
+
+```dart
+
+    dependencies:
+      flutter_expandable_menu: ^0.0.1
+```
+
+After dependency implementation,
+- To implement or fetch data as mentioned above refer this project's Example-2.
+- For more information about this package refere this link : https://github.com/UttamPanchasara/FlutterExpandableMenu
